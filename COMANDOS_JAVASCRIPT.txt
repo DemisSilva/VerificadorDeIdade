@@ -1,0 +1,12 @@
+COMANDO JAVA SCRIPT
+
+window.document.write('S'): Escreve uma string na tela
+winsow.document.charset: Devolve o set de carset
+window.navigator.appName: Retorna o noem do navegador
+wondow.documento.URL: Retorna a URL da Pagina
+window.document.getElementByTagName('p')[]: Devolve o elemento definido
+innerText: retorna o texto do elemento especificado
+var corpo = window.document.body = Retorna o body para a variavel corpo. Sendo possivel utilizala no JavaScript
+innerHTML = retorna o todo html.
+window.document.getElementById('id'): retorna o elemento pelo seu id
+ 
